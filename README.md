@@ -1,3 +1,17 @@
+# Docker
+
+O docker é uma ferramenta muito util na construção  de sistemas, pois ele cria um ambiente de desenvolvimento isolado para a aplicação, garantindo consistência em diferentes ambientes, 
+
+## Principais conceitos do docker:
+
+Imagem: Uma imagem é um pacote de software leve, independente e executável que inclui tudo o que é necessário para executar um pedaço de software.
+
+Contêiner: Um contêiner é uma instância em execução de uma imagem Docker. Ele encapsula o aplicativo e suas dependências, executando em um ambiente isolado.
+
+Dockerfile: Um Dockerfile é um script que contém instruções para construir uma imagem Docker. Ele define a imagem base, configura o ambiente e especifica os comandos a serem executados quando o contêiner é iniciado.
+
+Docker Compose: Docker Compose é uma ferramenta para definir e executar aplicativos Docker com vários contêineres. Ele utiliza um arquivo YAML para configurar os serviços, redes e volumes do aplicativo.
+
 # Comandos Docker
 
 A seguir estão alguns comandos úteis do Docker, estes comandos ajudarão você a gerenciar suas imagens, containers, volumes e redes no Docker. Adaptar conforme necessário para o seu ambiente e projeto.

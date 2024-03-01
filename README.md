@@ -12,6 +12,12 @@ Dockerfile: Um Dockerfile é um script que contém instruções para construir u
 
 Docker Compose: Docker Compose é uma ferramenta para definir e executar aplicativos Docker com vários contêineres. Ele utiliza um arquivo YAML para configurar os serviços, redes e volumes do aplicativo.
 
+# Instalação
+
+```bash
+https://docs.docker.com/engine/install/
+```
+
 # Comandos Docker
 
 A seguir estão alguns comandos úteis do Docker, estes comandos ajudarão você a gerenciar suas imagens, containers, volumes e redes no Docker. Adaptar conforme necessário para o seu ambiente e projeto.
